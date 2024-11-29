@@ -93,7 +93,7 @@ line-height: 1.688rem;
     height: 27.75rem;
   
     display: flex;
-    gap: 4.25rem;
+    justify-content:space-between
     
 }
 .two1{
@@ -179,7 +179,7 @@ line-height: 1.688rem;
     height: 26.813rem;
     display: flex;
     
-    gap: 1.5rem;
+  justify-content:space-between;
 }
 .fchild1{
    
